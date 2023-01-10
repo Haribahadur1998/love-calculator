@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+body {
+  background-color: bisque;
+  font-family: "Pacifico", cursive;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: -10px;
+}
+
+p {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 0px;
+}
+
+input {
+  margin-left: 50px;
+  border: 0px;
+  border-radius: 20px;
+  padding: 8px 20px;
+}
+
+button{
+    font-family: "Pacifico", cursive;
+    border-radius: 20px;
+    margin-left: 50px;
+    border-width:1px;
+    padding: 8px 20px;
+}
+
+button:hover{
+    background-color: aqua;
+    padding: 10px 30px;
+    border-width: 0px;
+}
+
+h2{
+    font-size: 40px;
+    color: chocolate;
+    margin-bottom: 0px;
+}
+
+h3{
+    font-size: 80px;
+    margin-top: 0px;
+    color: chocolate;
+}
+
+.love-score{
+    text-align: center;
+}
+
+.names{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
